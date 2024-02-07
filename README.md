@@ -10,10 +10,9 @@ I am currently a student learning to code, turning codes </> into reality is one
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<br />
 
-      
-
-
+#
 
 <details>
 <summary><h3>💻 Matty-kun's Coding Journey<h3></summary>     
