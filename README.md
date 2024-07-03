@@ -1,9 +1,16 @@
 # 👋MATTY-KUN
-**`Digital Craftsman (Aspiring Web Developer)`**
+**`Digital Craftsman`**
 
 I am currently a student learning to code, turning codes </> into reality is one of my dream. Currently learning HTML and CSS language and taking CS50 course by Harvard University. At the age of 17, I began my career early to learn a lot of new things.
 
 ---
+### 💻 Socials
+<img align="left" href="https://www.facebook.com/mattyyykun" alt="facebook icon" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/452196/facebook-1.svg" />
+<img align="left" href="https://www.instagram.com/mattyy_kun/" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
+<img align="left" href="https://www.linkedin.com/in/jm-vargas/" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/448234/linkedin.svg"/>
+<img align="left" href="https://x.com/mattyy_kun" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png"/>
+
+<br/>
 
 ### 💼 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
