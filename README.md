@@ -19,6 +19,14 @@ I am currently a student learning to code, turning codes </> into reality is one
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <br />
+---
+
+### GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matty-kun&show_icons=true&locale=en&layout=compact" alt="matty-kun" width="175px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matty-kun&show_icons=true&locale=en" alt="matty-kun" width="350" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matty-kun&" alt="matty-kun" width="350"/></p>
+
+<br/>
 
 #
 
