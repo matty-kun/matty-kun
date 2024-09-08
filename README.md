@@ -1,7 +1,7 @@
 # 👋Hi, I'm Matthew!
 **`Digital Craftsman`**
 
-I am currently a student learning to code, turning codes </> into reality is one of my dream. Currently learning HTML and CSS language and taking CS50 course by Harvard University. At the age of 17, I began my career early to learn a lot of new things.
+I am a Computer Science student at Notre Dame of Midsayap College. 
 
 ---
 ### 💻 Socials
