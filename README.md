@@ -1,7 +1,7 @@
 # 👋Hi, I'm Matthew!
 **`Digital Craftsman`**
 
-I am a Computer Science student at Notre Dame of Midsayap College. I enjoy the idea of problem-solving and critical thinking and the art of programming, turning codes into reality. Bringing a solution to a real-world problem.
+I am a Computer Science student at Notre Dame of Midsayap College. I enjoy the idea of problem-solving, critical thinking and the art of programming, turning codes into reality. Bringing a solution to a real-world problem.
 
 ---
 ### 💻 Socials
