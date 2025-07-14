@@ -6,8 +6,8 @@ I am a Computer Science student at Notre Dame of Midsayap College. I enjoy the i
 ---
 ### 💻 Socials
 <img align="left" href="https://www.facebook.com/mattyyykun" alt="facebook icon" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/452196/facebook-1.svg" />
-<img align="left" href="https://www.instagram.com/mattyy_kun/" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
-<img align="left" href="https://www.linkedin.com/in/jm-vargas/" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/448234/linkedin.svg"/>
+<img align="left" href="https://www.instagram.com/mattyy_kun/" alt="instagram icon" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
+<img align="left" href="https://www.linkedin.com/in/jm-vargas/" alt="LinkedIn Icon" width="30px" style="padding-right: 10px;"  src="https://www.svgrepo.com/show/448234/linkedin.svg"/>
 <img align="left" href="https://x.com/mattyy_kun" alt="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png"/>
 
 <br/>
